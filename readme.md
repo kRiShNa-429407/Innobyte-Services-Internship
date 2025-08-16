@@ -22,8 +22,7 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    # Replace <your-repo-url> with your actual repository URL
-    git clone <your-repo-url>
+    git clone https://github.com/kRiShNa-429407/Innobyte-Services-Internship.git
     cd finance_app
     ```
 
@@ -77,4 +76,5 @@ After logging in, you will have access to the following options:
 The project includes a suite of unit tests to ensure key functionality is working correctly. To run the tests, navigate to the project's root directory in your terminal and run:
 
 ```bash
+
 python -m unittest discover
